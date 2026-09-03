@@ -31,3 +31,6 @@ if status is-interactive
         alias ssh 'kitten ssh'
     end
 end
+
+
+
